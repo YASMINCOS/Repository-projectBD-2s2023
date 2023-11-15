@@ -34,6 +34,8 @@ Permite ao usuário registrar a devolução de um livro.
 Exibir Tudo do Banco de Dados:
 
 Apresenta ao usuário uma visão completa de todos os autores, livros, empréstimos e auditoria armazenados no banco de dados.
+# MER
+![MER-BIBLIOTECA](MER-BIBLIOTECA.png)
 
 # Executando a Aplicação
 Certifique-se de ter o Java e o Maven instalados no seu sistema.
