@@ -6,14 +6,14 @@ O projeto utiliza um banco de dados MySQL para armazenar as informações. Certi
 
 // DatabaseConnector.java
 
-public class DatabaseConnector {
+// public class DatabaseConnector {
     // Configurações do banco de dados
     private static final String URL = "jdbc:mysql://localhost:3306/seu_banco_de_dados";
     private static final String USUARIO = "seu_usuario";
     private static final String SENHA = "sua_senha";
 
-    // Restante do código...
-}
+    
+} // Restante do código...
 Substitua "seu_banco_de_dados", "seu_usuario" e "sua_senha" pelos valores adequados do seu ambiente.
 
 # Funcionalidades da Aplicação
