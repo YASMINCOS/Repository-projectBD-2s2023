@@ -1,4 +1,4 @@
-# Biblioteca
+# Biblioteca 📚
 Este projeto é uma aplicação simples de gerenciamento de uma biblioteca. Ele realiza a conexão com um banco de dados MySQL para armazenar informações sobre autores, livros, empréstimos e auditoria. A aplicação permite ao usuário cadastrar autores, livros, realizar empréstimos, devolver livros e visualizar todas as informações armazenadas no banco de dados.
 
 # Configuração do Banco de Dados
